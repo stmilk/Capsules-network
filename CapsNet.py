@@ -149,3 +149,4 @@ def CpasLayer(x, name, caps_group_num, output_caps, root_iter=0, is_output=False
 		else:	
 			return tf.norm(x, axis = -1)
 
+#test
